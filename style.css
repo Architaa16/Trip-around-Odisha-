@@ -1,0 +1,73 @@
+/* Add background image to the entire page */
+body {
+    background-image: url('weather.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #dddddd; /* Fallback color */
+    color: rgb(0, 0, 0); /* Ensure all text is white for readability */
+    font-family: 'Times New Roman', Times, serif
+}
+
+/* Container styling */
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Form styling */
+#location-form {
+    margin-bottom: 20px;
+}
+
+#location-input {
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Weather info box styling */
+.weather-info {
+    background-color: rgb(255, 255, 255); /* Semi-transparent background */
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+/* Add styles for the destination sections */
+.destinations {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.destination {
+    width: 23%; /* 23% width to fit 4 items per row with some spacing */
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8); /* Adding a semi-transparent white background to make text more readable */
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px 0; /* Margin to add spacing between rows */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color: #333; /* Ensure text color is dark for readability */
+}
+
+.destination img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.destination h3 {
+    margin-top: 10px;
+    color: #333; /* Changing text color to ensure readability */
+}
+
+.destination p {
+    margin-top: 5px;
+    color: #555; /* Changing text color to ensure readability */
+}
