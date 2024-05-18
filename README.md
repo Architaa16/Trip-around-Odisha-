@@ -14,3 +14,7 @@ The application displays different places around Odisha and also generates the w
 ## Deployment 
 I have successfully deployed my project which can be accessed using the link: 
 [Travel Planning Application](https://architaa16.github.io/Trip-around-Odisha-/)
+
+## Contact 
+For any queries feel free to ask using the below mail id:
+[architaaswain16@gmail.com](architaaswain16@gmail.com)
