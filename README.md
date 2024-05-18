@@ -11,3 +11,6 @@ The application displays different places around Odisha and also generates the w
     ```sh
     cd Trip-around-Odisha
     ```
+## Deployment 
+I have successfully deployed my project which can be accessed using the link: 
+[Travel Planning Application](https://architaa16.github.io/Trip-around-Odisha-/)
