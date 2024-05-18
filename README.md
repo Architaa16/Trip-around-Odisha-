@@ -16,5 +16,5 @@ I have successfully deployed my project which can be accessed using the link:
 [Travel Planning Application](https://architaa16.github.io/Trip-around-Odisha-/)
 
 ## Contact 
-For any queries feel free to ask using the below mail id:
+For any queries feel free to ask using the mail id:
 [architaaswain16@gmail.com](mailto:architaaswain16@gmail.com)
